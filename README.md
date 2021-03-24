@@ -1,2 +1,2 @@
-# MPMTemplate
-Basic Material Particle Method implementation 
+# MPMLearn
+Basic tutorials for Material Point Method simulation
